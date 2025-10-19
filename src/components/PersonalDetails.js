@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function PersonalDetails({ data, setData }) {
   const handleChange = (e) => {
     const { name, value, files } = e.target;

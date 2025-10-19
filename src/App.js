@@ -21,8 +21,8 @@ export default function App() {
     languages: [],
     academics: [],
     optional: { certifications: [], awards: [], exams: [] },
-  });
-
+  })
+  
   const [submitted, setSubmitted] = useState(false);
 
   return (
