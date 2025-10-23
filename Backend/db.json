@@ -1,0 +1,74 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "sunny",
+      "email": "sunny@gmail.com",
+      "mobile": "98765432",
+      "roll": "21",
+      "percentage": "90",
+      "city": "bangalore",
+      "state": "KA"
+    },
+    {
+      "id": 2,
+      "name": "samba",
+      "email": "s@gmail.com",
+      "mobile": "98765434",
+      "roll": "22",
+      "percentage": "90",
+      "city": "america",
+      "state": "AP"
+    },
+    {
+      "id": 3,
+      "name": "siva",
+      "email": "sam@gmail.com",
+      "mobile": "765434567",
+      "roll": "23",
+      "percentage": "98",
+      "city": "Bapatla",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "id": 4,
+      "name": "Prema",
+      "email": "prema@gmail.com",
+      "mobile": "987654567",
+      "roll": "24",
+      "percentage": "90",
+      "city": "Bangalore",
+      "state": "KA"
+    },
+    {
+      "name": "Surya",
+      "email": "suray@gmail.com",
+      "mobile": "987654567",
+      "roll": "25",
+      "percentage": "98",
+      "city": "Vijayawada",
+      "state": "AP",
+      "id": 5
+    },
+    {
+      "name": "Sai",
+      "email": "sai@gmail.com",
+      "mobile": "6543456789",
+      "roll": "26",
+      "percentage": "94",
+      "city": "Chirala",
+      "state": "Ap",
+      "id": 6
+    },
+    {
+      "name": "Moksha",
+      "email": "moksha@gmail.com",
+      "mobile": "8765678779",
+      "roll": "27",
+      "percentage": "89",
+      "city": "Ongole",
+      "state": "AP",
+      "id": 7
+    }
+  ]
+}
